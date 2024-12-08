@@ -33,5 +33,3 @@ Test your strategies risk-free using our paper trading feature. Experiment, lear
 ### Transparent Performance Tracking
 
 Detailed analytics and real-time performance monitoring help you understand your trading bot's effectiveness and make data-driven adjustments.
-
-Remember, while our AI provides powerful tools, trading always carries inherent risks. We encourage users to start conservatively, continually educate themselves, and never invest more than they can afford to lose.
