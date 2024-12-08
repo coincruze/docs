@@ -10,4 +10,5 @@ theme:
   favicon: assets/images/favicon.ico
 nav:
   - Quickstart: index.md
+  - What is Coincruze?: about.md
   
