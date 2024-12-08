@@ -1,7 +1,5 @@
 # What is Coincruze?
 
-## What is Coincruze?
-
 Coincruze is an advanced AI-powered cryptocurrency trading platform designed to revolutionize how individuals approach digital asset trading. Our cutting-edge technology combines machine learning, real-time market analysis, and adaptive strategies to empower traders of all experience levels.
 
 We believe in democratizing sophisticated trading techniques, making intelligent investment strategies accessible to everyone. By leveraging artificial intelligence, we transform complex trading processes into simple, effective automated solutions that can help users navigate the volatile cryptocurrency markets.
