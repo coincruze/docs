@@ -1,17 +1,43 @@
-# Welcome to MkDocs
+# Quickstart
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Start learning about how Coincruze works within minutes.
 
-## Commands
+## Getting Started with Coincruze
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Welcome to the Coincruze documentation guide. Our AI-powered crypto trading platform is designed to help you optimize your trading strategies with intelligent, automated solutions.
 
-## Project layout
+### Key Features
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **AI-Powered Trading Bots**: Continuously learn and adapt to market conditions
+- **Automated Trading**: Trade 24/7 across multiple exchanges
+- **Customizable Strategies**: Choose from pre-built or create your own strategies
+- **Advanced Risk Management**: Protect your investments with intelligent risk controls
+
+## How to Get Started
+
+1. [Sign Up](/users/sign_up) for a Coincruze account
+2. Connect your preferred cryptocurrency exchange
+3. Choose or create a trading strategy
+4. Deploy your AI trading bot
+
+[Get Started Now](/users/sign_up)
+
+## Explore Our Documentation
+
+- [AI Trading Strategies](/strategies)
+- [Exchange Integrations](/exchanges)
+- [Risk Management](/risk-management)
+- [Performance Tracking](/analytics)
+
+## Need Help?
+
+Join our community for support and insights:
+- [Discord Community](https://discord.gg/7Q3z2v)
+- [Support Email](mailto:support@coincruze.com)
+
+## Frequently Asked Questions
+
+Need quick answers? Check out our [FAQ section](/faq) for common questions about our platform, trading strategies, and account management.
+
+Was this page helpful?
+[Yes] [No]
