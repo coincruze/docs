@@ -13,15 +13,6 @@ Welcome to the Coincruze documentation guide. Our AI-powered crypto trading plat
 - **Customizable Strategies**: Choose from pre-built or create your own strategies
 - **Advanced Risk Management**: Protect your investments with intelligent risk controls
 
-## How to Get Started
-
-1. [Sign Up](/users/sign_up) for a Coincruze account
-2. Connect your preferred cryptocurrency exchange
-3. Choose or create a trading strategy
-4. Deploy your AI trading bot
-
-[Get Started Now](/users/sign_up)
-
 ## Explore Our Documentation
 
 - [AI Trading Strategies](/strategies)
@@ -32,12 +23,10 @@ Welcome to the Coincruze documentation guide. Our AI-powered crypto trading plat
 ## Need Help?
 
 Join our community for support and insights:
-- [Discord Community](https://discord.gg/7Q3z2v)
+
+- [Discord Community](https://discord.gg/aBhW5Sbk)
 - [Support Email](mailto:support@coincruze.com)
 
 ## Frequently Asked Questions
 
 Need quick answers? Check out our [FAQ section](/faq) for common questions about our platform, trading strategies, and account management.
-
-Was this page helpful?
-[Yes] [No]
