@@ -22,17 +22,18 @@ Choosing Coincruze means embracing a new era of cryptocurrency trading powered b
 
 Trading is deeply personal, and we recognize that every investor has a unique risk tolerance and financial goal. Coincruze is designed to accommodate this diversity:
 
-1. **Adaptive Strategies for Different Profiles**:
-   - **Conservative Traders**: Our platform offers low-risk strategies focusing on capital preservation and steady, incremental gains.
-   - **Balanced Investors**: Moderate risk strategies that seek a mix of stability and growth potential.
-   - **Aggressive Traders**: Advanced strategies for those comfortable with higher risk and potential for significant returns.
+### Adaptive Strategies for Different Profiles
 
-2. **Educational Resources**: We provide comprehensive learning materials to help you understand trading strategies, risk management, and how to effectively use AI-powered tools. Our goal is to empower you to make informed decisions.
+- **Conservative Traders**: Our platform offers low-risk strategies focusing on capital preservation and steady, incremental gains.
+- **Balanced Investors**: Moderate risk strategies that seek a mix of stability and growth potential.
+- **Aggressive Traders**: Advanced strategies for those comfortable with higher risk and potential for significant returns.
 
-3. **Paper Trading**: Test your strategies risk-free using our paper trading feature. Experiment, learn, and refine your approach without financial exposure.
+### Paper Trading
 
-4. **Transparent Performance Tracking**: Detailed analytics and real-time performance monitoring help you understand your trading bot's effectiveness and make data-driven adjustments.
+Test your strategies risk-free using our paper trading feature. Experiment, learn, and refine your approach without financial exposure.
+
+### Transparent Performance Tracking
+
+Detailed analytics and real-time performance monitoring help you understand your trading bot's effectiveness and make data-driven adjustments.
 
 Remember, while our AI provides powerful tools, trading always carries inherent risks. We encourage users to start conservatively, continually educate themselves, and never invest more than they can afford to lose.
-
-[Get Started](/users/sign_up)
