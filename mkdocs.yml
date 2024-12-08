@@ -1,0 +1,11 @@
+site_name: Coincruze
+site_url: https://docs.coincruze.com
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: white
+    accent: teal
+  logo: assets/images/logo_horizontal.png
+  favicon: assets/images/favicon.ico
+  
