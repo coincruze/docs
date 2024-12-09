@@ -19,7 +19,9 @@ This guide will walk you through the process of setting up your Coincruze accoun
 
 Selecting the right subscription plan is crucial to unlocking the full potential of Coincruze's AI-powered trading platform. We offer flexible plans designed to accommodate different trading needs, experience levels, and investment goals. When choosing a plan, carefully consider factors such as the number of bots you want to run, the exchanges you'll be trading on, and the complexity of trading strategies you wish to deploy. Our plans are structured to provide scalability, allowing you to start small and upgrade as your trading sophistication grows.
 
-Coincruze operates on a subscription model, which means that an active subscription is essential to access and utilize our platform's features. Without a subscription, you won't be able to create or run trading bots, connect exchanges, or leverage our AI optimization tools. We recommend reviewing our [Pricing](/pricing) page to explore the current plans in detail, compare their features, and select the one that best aligns with your trading objectives. Additionally, we offer attractive annual plans that come with significant discounts, providing a cost-effective way to maximize your trading potential while reducing your overall investment in the platform.
+Coincruze operates on a subscription model, which means that an active subscription is essential to access and utilize our platform's features. Without a subscription, you won't be able to create or run trading bots, connect exchanges, or leverage our AI optimization tools. We recommend reviewing our [Pricing](https://coincruze.com/pricing) page to explore the current plans in detail, compare their features, and select the one that best aligns with your trading objectives.
+
+We offer attractive annual plans that come with significant discounts, providing a cost-effective way to maximize your trading potential while reducing your overall investment in the platform.
 
 
 ## Step 3: Trading Server Setup (2 minutes)
