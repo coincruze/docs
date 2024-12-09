@@ -18,12 +18,38 @@ In Coincruze, you can easily create and manage trading bots. Follow this guide t
 
 ## Step 2: View the Bot Details
 
-Once the bot is created, you will be redirected to the Bot Details page. Here you can:
+After creating your bot, you'll be taken to the Bot Details page - your central command center for monitoring and managing your trading bot. This comprehensive dashboard will be where you track your bot's performance once it starts trading. Initially, most metrics will show zero or empty values since the bot hasn't started trading yet.
 
-- Manage the bot (start/stop/update/delete)
-- Check bot performance statistics like Total Profit, Win Rate, and Max Drawdown.
-- See the list of Open Trades and Closed Trades.
-- Access advanced metrics such as CAGR, Sharpe Ratio, and more.
+The Bot Details page will help you monitor:
+
+**Performance Metrics**
+
+- Total Profit: Track your future profits and losses
+- Win Rate: Monitor the success rate of your bot's trades
+- Max Drawdown: Keep an eye on maximum potential losses
+- Average Trade Duration: Understand your bot's trading frequency
+- Total Trades: Follow the number of completed trades
+- Open Trades: Watch active positions in real-time
+
+**Advanced Statistics**
+
+- Duration: Track how long your bot has been running
+- Profit %: Monitor overall return on investment
+- Profit Factor: Evaluate the ratio of winning to losing trades
+- Long/Short Trade Distribution: Analyze trading direction balance
+- CAGR %: Measure annual growth rate
+- Sharpe Ratio: Assess risk-adjusted returns
+- Calmar Ratio: Evaluate risk-adjusted performance
+
+**Trading History**
+
+- Access daily, weekly, and monthly performance summaries
+- Review detailed trade logs once trading begins
+- Track trade reasons and outcomes
+- Monitor stake amounts and individual trade results
+
+!!! tip
+    Once your bot starts trading, regularly review these metrics to evaluate its performance and make necessary adjustments to your trading strategy.
 
 ## Step 3: Edit Bot Settings
 
