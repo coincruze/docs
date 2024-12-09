@@ -126,11 +126,39 @@ During paper trading, your bot will:
 
 ## Step 5: Switch to Live Mode
 
-Once you are satisfied with the bot’s performance in Paper Trading mode, you can switch to Live mode:
+Transitioning from paper trading to live trading is a significant step that requires careful consideration and proper exchange setup. Before starting live trading, ensure you've thoroughly tested your bot's strategy in paper trading mode and are comfortable with its performance.
 
-1. Ensure you have connected your exchange credentials in the Edit Bot page.
-2. Click “Connect Exchange to Go Live” on the Bot Details page.
-3. Start the bot and let it trade with real funds.
+### Prerequisites for Live Trading
+
+- Successful paper trading results (recommended 2-4 weeks minimum)
+- Sufficient funds in your exchange account
+- Proper exchange API configuration
+- Understanding of trading fees and potential risks
+
+### Starting Live Trading
+
+1. Navigate to the Bot Details page
+2. Click the "Start" button to begin live trading
+3. Confirm the transition to live mode
+4. Monitor your bot's initial trades closely
+
+!!! warning "Important Safety Checks"
+	- Verify your stop-loss settings are properly configured
+	- Ensure your API keys have the correct permissions
+	- Double-check your trading capital limits
+	- Monitor your first few live trades carefully
+
+!!! tip "Best Practices"
+	- Start with smaller trading amounts than your final target
+	- Gradually increase position sizes as you verify performance
+
+### Troubleshooting Live Trading
+
+If you encounter issues:
+
+- Verify API key permissions
+- Ensure sufficient funds are available
+- Contact support if problems persist
 
 ## Managing Your Bot
 
