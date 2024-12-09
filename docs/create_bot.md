@@ -51,29 +51,49 @@ The Bot Details page will help you monitor:
 !!! tip
     Once your bot starts trading, regularly review these metrics to evaluate its performance and make necessary adjustments to your trading strategy.
 
-## Step 3: Edit Bot Settings
+## Step 3: Configure Bot Settings
 
-1. Click the “Edit” button on the Bot Details page to access the Edit Bot page.
-2. Configure the following parameters:
+The Edit Bot page is where you'll customize your bot's trading behavior and risk management settings. Each bot comes with pre-configured parameters optimized by our AI, but you can
+adjust these settings to match your trading preferences and risk tolerance.
 
-General Parameters
+### Basic Configuration
 
-- Name: Set a name for your bot.
-- Crypto Exchange: Assign exchange credentials (required for Live mode).
-- Available Capital: Define the capital allocation (Min: 10, Max: 1,000,000).
-- Stake Currency: Choose the currency for trading (e.g., USDT).
-- Max Open Trades: Limit the number of simultaneous trades (Min: 1, Max: 100).
-- Timeframe: Select the trading timeframe (e.g., 5m, 15m).
+**Bot Name**
 
-Pairs to Trade
+- Give your bot a unique, descriptive name to easily identify it among your other bots
+- Example: "High Volatility BTC-ETH" or "Conservative USDT Swing Trader"
 
-Select the trading pairs the bot will use (e.g., BTC/USDT, ETH/USDT, SOL/USDT).
+**Crypto Exchange Connection**
 
-Tip: Choose pairs based on your trading strategy and market analysis.
+- Select from your previously connected exchanges
+- If you haven't connected an exchange yet, you'll need to set one up in Account Settings first
+- Required for live trading mode, not needed for paper trading
 
-Paper Trading Wallet
+### Bot Parameters
 
-Set the amount for paper trading (Min: 10, Max: 1,000,000).
+**General Settings** (Available for all bots)
+
+- Available Capital: Define how much capital the bot can use (10 - 1,000,000)
+- Stake Currency: Select the base currency for trading (e.g., USDT, BUSD)
+- Max Open Trades: Set the maximum number of simultaneous positions (1 - 100)
+- Timeframe: Choose the trading interval (e.g., 5m, 15m, 30m, 1h)
+- Trading Pairs: Select which cryptocurrency pairs to trade
+
+**Specialized Parameters** (Vary by bot type)
+
+Different bots will have additional parameter sections based on their strategy:
+
+- Stop Loss: Configure loss prevention settings
+- ROI: Define take-profit targets
+- Buy/Sell: Set entry and exit conditions
+- Protections: Add trading safeguards
+- Other strategy-specific parameters
+
+!!! note
+    Each parameter section contains tooltips explaining its purpose and recommended ranges. Hover over the (?) icon next to each setting for detailed information.
+
+!!! tip
+    Start with the default parameters while paper trading. Make gradual adjustments based on performance data rather than making multiple changes at once.
 
 ## Step 4: Run the Bot in Paper Trading Mode
 
