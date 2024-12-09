@@ -23,8 +23,10 @@ Coincruze operates on a subscription model, which means that an active subscript
 
 We offer attractive annual plans that come with significant discounts, providing a cost-effective way to maximize your trading potential while reducing your overall investment in the platform.
 
+## Step 3: Trading Server Setup
 
-## Step 3: Trading Server Setup (2 minutes)
+!!! info
+      No action is required from you during this step - just wait for the setup to complete.
 
 Once you've selected your plan, Coincruze will automatically set up your dedicated trading server. This process:
 
@@ -33,9 +35,7 @@ Once you've selected your plan, Coincruze will automatically set up your dedicat
 - Establishes connections to our AI systems
 - Takes approximately 2 minutes to complete
 
-*No action is required from you during this step - just wait for the setup to complete.*
-
-## Step 4: Connect to a Crypto Exchange (5 minutes)
+## Step 4: Connect to a Crypto Exchange
 
 After server setup, you'll need to connect your preferred cryptocurrency exchange:
 
@@ -48,9 +48,10 @@ After server setup, you'll need to connect your preferred cryptocurrency exchang
       - Additional security settings (if required)
 5. Test the connection
 
-*Important: Make sure to enable trading permissions when creating your API keys.*
+!!! info "Important"
+      Make sure to enable trading permissions when creating your API keys.
 
-## Step 5: Create Your First Bot (30 seconds)
+## Step 5: Create Your First Bot
 
 The final step is creating your first trading bot:
 
