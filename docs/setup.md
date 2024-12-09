@@ -37,19 +37,38 @@ Once you've selected your plan, Coincruze will automatically set up your dedicat
 
 ## Step 4: Connect to a Crypto Exchange
 
-After server setup, you'll need to connect your preferred cryptocurrency exchange:
+### Create an Exchange Account (If Needed)
+
+Before connecting to Coincruze, you'll need an active account with a supported cryptocurrency exchange. If you haven't already registered:
+
+1. Choose a reputable exchange (e.g., Binance, Kraken, KuCoin)
+2. Visit the exchange's official website
+3. Click "Register" or "Sign Up"
+4. Complete the registration process:
+   - Provide required personal information
+   - Verify your email address
+   - Complete Know Your Customer (KYC) verification
+   - Enable two-factor authentication (2FA)
+5. Fund your account with cryptocurrency or fiat currency
+
+!!! warning "Important"
+    Always use official exchange websites to prevent phishing. Verify the URL carefully before registering.
+
+### Connect Exchange to Coincruze
+
+After creating your exchange account, connect it to Coincruze:
 
 1. Click on the "Connect to a crypto exchange" option
 2. Select your preferred exchange from the supported platforms
 3. Follow the exchange-specific API key setup instructions
 4. Enter your API credentials:
-      - API Key
-      - API Secret
-      - Additional security settings (if required)
+   - API Key
+   - API Secret
+   - Additional security settings (if required)
 5. Test the connection
 
 !!! info "Important"
-      Make sure to enable trading permissions when creating your API keys.
+    Make sure to enable trading permissions when creating your API keys, but restrict withdrawal permissions for added security.
 
 ## Step 5: Create Your First Bot
 
