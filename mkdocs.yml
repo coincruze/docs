@@ -23,6 +23,7 @@ nav:
   - Quickstart: index.md
   - What is Coincruze?: about.md
   - Setup: setup.md
+  - Dashboard: dashboard.md
   - Bot Creation: create_bot.md
   - Bot Management: manage_bot.md
   - Trade Management: manage_trades.md
