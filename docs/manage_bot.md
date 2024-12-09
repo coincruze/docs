@@ -176,4 +176,10 @@ The Closed Trades table provides a detailed record of your bot's completed trade
 !!! tip
     To review individual [trade details](./manage_trades.md), click on the trade ID.
 
+## Daily/Weekly/Monthly Summaries
+
+The Daily, Weekly, and Monthly Summaries offer a comprehensive overview of your bot's performance over different time frames, enabling you to track progress, identify trends, and evaluate the effectiveness of your trading strategies.
+
+For each time frame, the summaries include key metrics such as Total Profit, Total Trades, and Profit %. By analyzing these summaries, you can gain valuable insights into your bot's performance over different periods, identify patterns, and make informed decisions to optimize your trading strategy.
+
 By understanding these metrics and statistics, you can make informed decisions about your trading strategies and optimize your bot's performance.
