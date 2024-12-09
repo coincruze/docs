@@ -12,6 +12,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Quickstart: index.md
   - What is Coincruze?: about.md
