@@ -15,4 +15,5 @@ markdown_extensions:
 nav:
   - Quickstart: index.md
   - What is Coincruze?: about.md
+  - Setup: setup.md
   
