@@ -12,6 +12,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 extra_css:
   - stylesheets/extra.css
 nav:
@@ -19,4 +24,5 @@ nav:
   - What is Coincruze?: about.md
   - Setup: setup.md
   - Bot Creation: create_bot.md
+  - Bot Management: manage_bot.md
   
