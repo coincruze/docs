@@ -97,11 +97,32 @@ Different bots will have additional parameter sections based on their strategy:
 
 ## Step 4: Run the Bot in Paper Trading Mode
 
-Before trading with real money, it’s recommended to run the bot in Paper Trading mode:
+Paper trading (also known as simulated trading) is a risk-free way to test your bot's performance using real market data but virtual capital. This crucial testing phase helps you:
 
-1. From the Bot Details page, click “Start”.
-2. Ensure the bot’s status changes to “running”.
-3. Monitor the bot’s performance and analyze the trades in the Closed Trades section.
+- Understand how your bot behaves in different market conditions
+- Validate your parameter settings without risking real money
+- Build confidence in your trading strategy
+- Identify potential issues or needed adjustments
+- Get familiar with the platform's trading mechanics
+
+To start paper trading:
+
+1. From the Bot Details page, click "Start"
+2. Ensure the bot's status changes to "running"
+3. Monitor the bot's performance and analyze the trades in the Closed Trades section
+
+During paper trading, your bot will:
+
+- Execute trades using simulated funds
+- Follow all configured parameters and rules
+- Generate real-time performance metrics
+- Create detailed trade logs for analysis
+
+!!! warning
+    Even if your bot performs well in paper trading, remember that live market conditions can differ due to factors like slippage, liquidity, and network delays.
+
+!!! tip
+    We recommend running paper trading for at least 2-4 weeks to gather meaningful performance data across different market conditions.
 
 ## Step 5: Switch to Live Mode
 
