@@ -41,22 +41,22 @@ Once you've selected your plan, Coincruze will automatically set up your dedicat
 
 Before connecting to Coincruze, you'll need an active account with a supported cryptocurrency exchange. If you haven't already registered:
 
-1. Choose from our supported exchanges: 
-   - Binance
-   - BingX
-   - BitMart
-   - Bybit
-   - Gate.io
-   - HTX
-   - Kraken
-   - OKX
+1. Choose from our supported exchanges:
+    - Binance
+    - BingX
+    - BitMart
+    - Bybit
+    - Gate.io
+    - HTX
+    - Kraken
+    - OKX
 2. Visit the exchange's official website
 3. Click "Register" or "Sign Up"
 4. Complete the registration process:
-   - Provide required personal information
-   - Verify your email address
-   - Complete Know Your Customer (KYC) verification
-   - Enable two-factor authentication (2FA)
+    - Provide required personal information
+    - Verify your email address
+    - Complete Know Your Customer (KYC) verification
+    - Enable two-factor authentication (2FA)
 5. Fund your account with cryptocurrency or fiat currency
 
 !!! warning "Important"
@@ -70,9 +70,9 @@ After creating your exchange account, connect it to Coincruze:
 2. Select your preferred exchange from the supported platforms
 3. Follow the exchange-specific API key setup instructions
 4. Enter your API credentials:
-   - API Key
-   - API Secret
-   - Additional security settings (if required)
+    - API Key
+    - API Secret
+    - Additional security settings (if required)
 5. Test the connection
 
 !!! info "Important"
@@ -80,55 +80,68 @@ After creating your exchange account, connect it to Coincruze:
 
 ### Exchange Specific Notes
 
-#### Binance Configuration
-When setting up Binance, users must be aware of several critical configurations:
-- Select the correct Binance platform:
-  - International users: Standard Binance
-  - US-based users: Binance.US
-- Futures Trading Requirements:
-  - Complex quantitative rules govern trading
-  - Minimum stake amounts apply to prevent trading restrictions
-  - Mandatory settings:
-    * Position Mode: Set to "One-way Mode"
-    * Asset Mode: Set to "Single-Asset Mode"
-  - Failure to configure these settings will prevent bot activation
+Carefully review and follow these exchange-specific guidelines to ensure smooth bot operation and prevent potential trading interruptions.
 
-#### OKX API Configuration
+#### Binance
+
+When setting up Binance, users must be aware of several critical configurations.
+
+**Select the correct Binance platform:**
+
+- International users: Binance
+- US-based users: Binance.US
+
+**Futures Trading Requirements:**
+
+- Binance has [complex futures quantitative trading rules](https://www.binance.com/en/support/faq/binance-futures-trading-quantitative-rules-4f462ebe6ff445d4a170be7d9e897272)
+- Minimum stake amounts apply to prevent trading restrictions
+- Mandatory settings:
+    - Position Mode: Set to "One-way Mode"
+    - Asset Mode: Set to "Single-Asset Mode"
+
+!!! warning
+    Failure to configure these settings will prevent bot activation
+
+#### OKX
+
 OKX requires an additional security step:
+
 - Each API key must include a unique passphrase
-- Ensure the passphrase is correctly entered during configuration
+- Ensure the passphrase is correctly entered into the `password` field during exchange configuration
 
-#### Gate.io API Permissions
-Specific API key permissions are crucial for Gate.io:
+#### Gate.io
+
+Specific API key permissions on top of the market you want to trade are crucial for Gate.io:
+
 - Required Permissions:
-  * "Spot Trade" or "Perpetual Futures" (Read and Write)
-  * "Wallet" (Read only)
-  * "Account" (Read only)
-- Incomplete permissions will prevent bot functionality
-- Recommended: Select permissions matching your intended trading market
+    * "Spot Trade" or "Perpetual Futures" (Read and Write) (either select both, or the one matching the market you want to trade)
+    * "Wallet" (Read only)
+    * "Account" (Read only)
 
-#### Bybit API Setup
+!!! warning
+    Incomplete permissions will prevent bot functionality
+
+#### Bybit
+
 Futures trading on Bybit demands precise API configurations:
+
 - API Key Permissions:
-  * Read-write access
-  * Contract - Orders
-  * Contract - Positions
-- Security Recommendations:
-  * Limit API keys to specific IP addresses
-  * Use dedicated subaccounts for each bot
-  * Avoid mixing manual and bot trading on the same account
+    * Read-write access
+    * Contract - Orders
+    * Contract - Positions
 
-#### BitMart API Requirements
-BitMart has unique API key configuration needs:
-- API Key Components:
-  * Requires API key, secret, and UID (Memo)
-  * Place the Memo in the API key field
-- Trading Verification:
-  * Level 2 verification mandatory for spot market API trading
-  * Level 1 verification insufficient for API trades
+!!! danger
+    Coincruze operates under the assumption that each account is exclusively allocated to a single bot. Therefore, we advise assigning a separate subaccount for each bot, particularly when dealing with unified accounts.
 
-!!! warning "Important"
-    Carefully review and follow these exchange-specific guidelines to ensure smooth bot operation and prevent potential trading interruptions.
+!!! warning
+    Alternative setups — such as running multiple bots on a single account or executing manual (non-bot) trades within a bot-operated account — are not supported and could result in unpredictable behavior.
+
+#### BitMart
+
+Bitmart mandates that the API key Memo (the label assigned to the API key) be provided alongside the exchange key and secret.
+Enter the memo into `Api key` field.
+
+Additionally, Bitmart requires Verification Level 2 to trade on the spot market via the API.
 
 ## Step 5: Create Your First Bot
 
