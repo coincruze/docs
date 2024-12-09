@@ -167,13 +167,13 @@ The Open Trades table includes Trade ID, Symbol (Pair), Stake Amount, Current Pr
 The current profit values are regularly refreshing, providing near real-time information about the performance of each open trade.
 
 !!! tip
-    To review individual trade details, click on the trade ID.
+    To review individual [trade details](./manage_trades.md), click on the trade ID.
 
 ## Closed Trades List
 
 The Closed Trades table provides a detailed record of your bot's completed trades, allowing you to analyze past performance and refine your trading strategies. It includes Trade ID, Symbol (Pair), Stake Amount, Profit, Open Date, Close Date, and Close Reason. By reviewing the Closed Trades table, you can gain valuable insights into your bot's historical trading activities and make data-driven decisions to enhance future performance.
 
 !!! tip
-    To review individual trade details, click on the trade ID.
+    To review individual [trade details](./manage_trades.md), click on the trade ID.
 
 By understanding these metrics and statistics, you can make informed decisions about your trading strategies and optimize your bot's performance.

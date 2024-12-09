@@ -25,4 +25,5 @@ nav:
   - Setup: setup.md
   - Bot Creation: create_bot.md
   - Bot Management: manage_bot.md
+  - Trade Management: manage_trades.md
   
