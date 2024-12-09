@@ -1,6 +1,4 @@
 
-# Coincruze documenation
-
 ![Coincruze logo](img/logo_horizontal.png)
 
 Welcome to the [Coincruze](https://docs.coincruze.com) documentation repository. This repository contains all the necessary information and resources to help you understand and use the Coincruze platform effectively.
