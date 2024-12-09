@@ -78,6 +78,58 @@ After creating your exchange account, connect it to Coincruze:
 !!! info "Important"
     Make sure to enable trading permissions when creating your API keys, but restrict withdrawal permissions for added security.
 
+### Exchange Specific Notes
+
+#### Binance Configuration
+When setting up Binance, users must be aware of several critical configurations:
+- Select the correct Binance platform:
+  - International users: Standard Binance
+  - US-based users: Binance.US
+- Futures Trading Requirements:
+  - Complex quantitative rules govern trading
+  - Minimum stake amounts apply to prevent trading restrictions
+  - Mandatory settings:
+    * Position Mode: Set to "One-way Mode"
+    * Asset Mode: Set to "Single-Asset Mode"
+  - Failure to configure these settings will prevent bot activation
+
+#### OKX API Configuration
+OKX requires an additional security step:
+- Each API key must include a unique passphrase
+- Ensure the passphrase is correctly entered during configuration
+
+#### Gate.io API Permissions
+Specific API key permissions are crucial for Gate.io:
+- Required Permissions:
+  * "Spot Trade" or "Perpetual Futures" (Read and Write)
+  * "Wallet" (Read only)
+  * "Account" (Read only)
+- Incomplete permissions will prevent bot functionality
+- Recommended: Select permissions matching your intended trading market
+
+#### Bybit API Setup
+Futures trading on Bybit demands precise API configurations:
+- API Key Permissions:
+  * Read-write access
+  * Contract - Orders
+  * Contract - Positions
+- Security Recommendations:
+  * Limit API keys to specific IP addresses
+  * Use dedicated subaccounts for each bot
+  * Avoid mixing manual and bot trading on the same account
+
+#### BitMart API Requirements
+BitMart has unique API key configuration needs:
+- API Key Components:
+  * Requires API key, secret, and UID (Memo)
+  * Place the Memo in the API key field
+- Trading Verification:
+  * Level 2 verification mandatory for spot market API trading
+  * Level 1 verification insufficient for API trades
+
+!!! warning "Important"
+    Carefully review and follow these exchange-specific guidelines to ensure smooth bot operation and prevent potential trading interruptions.
+
 ## Step 5: Create Your First Bot
 
 The final step is creating your first trading bot:
