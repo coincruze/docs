@@ -41,7 +41,15 @@ Once you've selected your plan, Coincruze will automatically set up your dedicat
 
 Before connecting to Coincruze, you'll need an active account with a supported cryptocurrency exchange. If you haven't already registered:
 
-1. Choose a reputable exchange (e.g., Binance, Kraken, KuCoin)
+1. Choose from our supported exchanges: 
+   - Binance
+   - BingX
+   - BitMart
+   - Bybit
+   - Gate.io
+   - HTX
+   - Kraken
+   - OKX
 2. Visit the exchange's official website
 3. Click "Register" or "Sign Up"
 4. Complete the registration process:
