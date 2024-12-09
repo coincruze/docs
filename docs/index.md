@@ -18,7 +18,6 @@ Start learning about how Coincruze works within minutes.
 
 Welcome to the Coincruze documentation guide. Our AI-powered crypto trading platform is designed to help you optimize your trading strategies with intelligent, automated solutions.
 
-
 ### Key Features
 
 - **AI-Powered Trading Bots**: Continuously learn and adapt to market conditions
@@ -28,10 +27,41 @@ Welcome to the Coincruze documentation guide. Our AI-powered crypto trading plat
 
 ## Explore Our Documentation
 
-- [AI Trading Strategies](/strategies)
-- [Exchange Integrations](/exchanges)
-- [Risk Management](/risk-management)
-- [Performance Tracking](/analytics)
+<div class="grid cards" markdown>
+
+- :material-connection:{.lg .middle} __Connect to Exchange__
+
+    ---
+
+    Learn how to connect your exchange account to Coincruze
+
+    [:octicons-arrow-right-24: Connect to Exchange](./setup.md)
+
+- :material-robot:{.lg .middle} __Create a Trading Bot__
+
+    ---
+
+    Set up a trading bot with your preferred strategy and risk settings
+
+    [:octicons-arrow-right-24: Create a Trading Bot](./create_bot.md)
+
+- :material-chart-line:{.lg .middle} __Monitor Performance__
+
+    ---
+
+    Track your bot's performance and adjust settings as needed
+
+    [:octicons-arrow-right-24: Monitor Performance](./manage_bot.md)
+
+- :material-list-status:{.lg .middle} __Manage Trades__
+
+    ---
+
+    View and manage your open and closed trades
+
+    [:octicons-arrow-right-24: Manage Trades](./manage_trades.md)
+
+</div>
 
 ## Need Help?
 
