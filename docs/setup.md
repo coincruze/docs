@@ -182,7 +182,7 @@ After completing the setup process, we recommend:
 
 If you encounter any issues during the setup process:
 
-- Check our [FAQ section](/faq)
+- Check our [FAQ section](./faq.md)
 - Contact our [support team](mailto:support@coincruze.com)
 - Join our [Discord community](https://discord.gg/aBhW5Sbk) for real-time assistance
 

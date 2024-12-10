@@ -72,4 +72,4 @@ Join our community for support and insights:
 
 ## Frequently Asked Questions
 
-Need quick answers? Check out our [FAQ section](/faq) for common questions about our platform, trading strategies, and account management.
+Need quick answers? Check out our [FAQ section](./faq.md) for common questions about our platform, trading strategies, and account management.
