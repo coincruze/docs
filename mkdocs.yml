@@ -10,6 +10,7 @@ theme:
   favicon: assets/images/favicon.ico
 plugins:
   - privacy
+  - search
 markdown_extensions:
   - admonition
   - pymdownx.details
