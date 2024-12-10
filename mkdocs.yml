@@ -8,6 +8,8 @@ theme:
     accent: teal
   logo: assets/images/logo_horizontal.png
   favicon: assets/images/favicon.ico
+  features:
+    - navigation.footer
 plugins:
   - privacy
   - search
