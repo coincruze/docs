@@ -2,6 +2,18 @@
 
 In Coincruze, you can easily create and manage trading bots. Follow this guide to create a bot, configure its settings, and run it in Paper Trading or Live mode.
 
+??? warning "Risk Disclaimer"
+    Trading carries significant risk, and all content on this site is for educational purposes
+    only—it is NOT financial or investment advice. Past performance does not guarantee future results,
+    and any profits shown in screenshots, videos, or other materials are for illustrative purposes only.
+    Hypothetical or simulated performance results have inherent limitations and may not reflect actual trading outcomes.
+    Testimonials may not represent typical results and are not guarantees of future performance.
+    Under no circumstances will 7 Digits Only (Coincruze) be liable for any loss or damage, in whole or in part,
+    arising from the use of our platform or services. Users should carefully review our
+    [Terms of Service](https://coincruze.com/terms) and [Risk Disclaimer](https://coincruze.com/disclaimer)
+    before using the site or engaging in trading activities. Always consult with qualified financial professionals
+    regarding your specific circumstances.
+
 ## Step 1: Copy a Bot from the Repository
 
 1. Navigate to the [Repository](https://coincruze.com/bot-repository) page.

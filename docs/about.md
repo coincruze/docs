@@ -4,6 +4,18 @@ Coincruze is an advanced AI-powered cryptocurrency trading platform designed to 
 
 We believe in democratizing sophisticated trading techniques, making intelligent investment strategies accessible to everyone. By leveraging artificial intelligence, we transform complex trading processes into simple, effective automated solutions that can help users navigate the volatile cryptocurrency markets.
 
+??? warning "Risk Disclaimer"
+    Trading carries significant risk, and all content on this site is for educational purposes
+    only—it is NOT financial or investment advice. Past performance does not guarantee future results,
+    and any profits shown in screenshots, videos, or other materials are for illustrative purposes only.
+    Hypothetical or simulated performance results have inherent limitations and may not reflect actual trading outcomes.
+    Testimonials may not represent typical results and are not guarantees of future performance.
+    Under no circumstances will 7 Digits Only (Coincruze) be liable for any loss or damage, in whole or in part,
+    arising from the use of our platform or services. Users should carefully review our
+    [Terms of Service](https://coincruze.com/terms) and [Risk Disclaimer](https://coincruze.com/disclaimer)
+    before using the site or engaging in trading activities. Always consult with qualified financial professionals
+    regarding your specific circumstances.
+
 ## Why Choose Coincruze? (Intelligent Trading Simplified)
 
 Choosing Coincruze means embracing a new era of cryptocurrency trading powered by intelligent technology. Our platform stands out through its comprehensive approach to automated trading:
@@ -17,18 +29,6 @@ Choosing Coincruze means embracing a new era of cryptocurrency trading powered b
 4. **Continuous Innovation**: We're committed to pushing the boundaries of AI-driven trading technology. Our development team continuously works on enhancing our algorithms, introducing features like AI-tuned strategies, and exploring advanced machine learning techniques to provide our users with cutting-edge trading tools.
 
 ## Embracing Your Unique Risk Profile
-
-??? warning "Risk Disclaimer"
-    Trading carries significant risk, and all content on this site is for educational purposes
-    only—it is NOT financial or investment advice. Past performance does not guarantee future results,
-    and any profits shown in screenshots, videos, or other materials are for illustrative purposes only.
-    Hypothetical or simulated performance results have inherent limitations and may not reflect actual trading outcomes.
-    Testimonials may not represent typical results and are not guarantees of future performance.
-    Under no circumstances will 7 Digits Only (Coincruze) be liable for any loss or damage, in whole or in part,
-    arising from the use of our platform or services. Users should carefully review our
-    [Terms of Service](https://coincruze.com/terms) and [Risk Disclaimer](https://coincruze.com/disclaimer)
-    before using the site or engaging in trading activities. Always consult with qualified financial professionals
-    regarding your specific circumstances.
 
 Trading is deeply personal, and we recognize that every investor has a unique risk tolerance and financial goal. Coincruze is designed to accommodate this diversity:
 
