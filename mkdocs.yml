@@ -29,6 +29,10 @@ extra_javascript:
   - javascripts/tex-mml-chtml.js
 extra_css:
   - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/aBhW5Sbk
 nav:
   - Quickstart: index.md
   - What is Coincruze?: about.md
