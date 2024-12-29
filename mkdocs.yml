@@ -10,6 +10,7 @@ theme:
   favicon: assets/images/favicon.ico
   features:
     - navigation.footer
+  custom_dir: overrides
 plugins:
   - privacy
   - search
@@ -33,6 +34,8 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/aBhW5Sbk
+  analytics:
+    provider: umami
 nav:
   - Quickstart: index.md
   - What is Coincruze?: about.md
