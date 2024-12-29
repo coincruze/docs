@@ -1,0 +1,7 @@
+.md-header__topic {
+  display: none;
+
+  @media screen and (max-width:76.234375em) {
+    display: flex;
+  }
+}
