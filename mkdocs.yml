@@ -35,7 +35,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/aBhW5Sbk
   analytics:
-    provider: umami
+    provider: custom
 nav:
   - Quickstart: index.md
   - What is Coincruze?: about.md
